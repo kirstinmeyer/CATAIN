@@ -1,0 +1,11 @@
+[Unit]
+Description=camera capture service
+After=multi-user.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/python3 /home/ubuntu/code/intervalometer/src/capture.py
+
+[Install]
+WantedBy=multi-user.target

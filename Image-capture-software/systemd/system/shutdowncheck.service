@@ -1,0 +1,11 @@
+[Unit]
+Description=shutdowncheck
+After=syslog.target network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/python3 /home/ubuntu/bin/SleepyPi/shutdowncheck.py
+
+[Install]
+WantedBy=multi-user.target
