@@ -1,0 +1,25 @@
+
+
+
+
+Vacuum Pump:
+https://www.amazon.com/Kozyvacu-TA350-Single-Stage-Refrigerant-Recharging/dp/B01N6IOBWF/ref=pd_ys_c_rfy_284507_8?_encoding=UTF8&pd_rd_i=B01N6IOBWF&pd_rd_r=QAJJD8XZSRJ6Z0FD9KEJ&pd_rd_w=gqWTL&pd_rd_wg=tEX7i&pf_rd_p=ebdb9563-876f-4a5e-94d7-4e71d5f60d6d&psc=1&refRID=F0VH3ZT4R1HR8ER9MYR4
+
+Raspberry Pi 4:
+https://www.amazon.com/CanaKit-Raspberry-Basic-Kit-8GB/dp/B08DJ9MLHV/ref=pd_ys_c_rfy_172282_7?_encoding=UTF8&pd_rd_i=B08DJ9MLHV&pd_rd_r=1QF17E9ZQ9T8V4AVHQHV&pd_rd_w=KeFRq&pd_rd_wg=12dk3&pf_rd_p=ebdb9563-876f-4a5e-94d7-4e71d5f60d6d&psc=1&refRID=K7TABKD08KQDFWC5J4RS
+
+Sleepy Pi:
+https://www.pishop.us/product/sleepy-pi-2-power-management-shield-raspberry-pi/
+
+Micro SD Card 128 GB:
+https://www.amazon.com/SanDisk-128GB-Extreme-microSD-Adapter/dp/B07FCMKK5X/ref=pd_bxgy_3/143-1362772-2013468?_encoding=UTF8&pd_rd_i=B07FCMKK5X&pd_rd_r=9ace5b6f-85fa-4762-b057-75ddd5ce1e7b&pd_rd_w=TmTnr&pd_rd_wg=uo0L0&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=P4QS2J092H5AN83J6Z2A&psc=1&refRID=P4QS2J092H5AN83J6Z2A
+
+Lithium Battery:
+https://www.amazon.com/12-Volt-Rechargeable-Lithium-Battery/dp/B00PG5I8EE/ref=sr_1_10?dchild=1&keywords=12+volt+lithium+battery&qid=1608761348&sr=8-10
+
+Bench power supply:
+https://www.amazon.com/HaoFst-Variable-Adjustable-Bench-Supply/dp/B07KXJVFFJ/ref=sr_1_3?dchild=1&keywords=Bench+power+supply&qid=1608761499&sr=8-3
+
+LED's:
+https://www.amazon.com/gp/product/B01HRMOM8O/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
