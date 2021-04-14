@@ -9,11 +9,18 @@ Yogesh Girdhar, imagery and autonomy (ygirdhar@whoi.edu) <br>
 Kharis Schrage, MIT-WHOI Joint Program PhD student (kharis@mit.edu) <br>
 
 This repository has the following directories: <br>
+Build resources - information that may be helpful for building your own CATAIN <br>
 Image capture software - codes in C++ and Python by Stefano Suman <br>
-Disk image - a full image of CATAIN's SD card by Stefano Suman <br>
 Image analysis pipeline - codes in Python by Kharis Schrage and Yogesh Girdhar <br>
 
+Build resources: <br>
+BLOCK: Block wiring diagram for CATAIN by John Bailey <br>
+Strobe: Schematic of CATAIN's lighting system by John Bailey <br>
+Supplies: Links to some of CATAIN's purchased components and necessary lab supplies <br>
+CATAIN checklist: Our team's checklist for turning around CATAIN between deployments <br>
+
 Disk image: <br>
+This file is too big for Github but can be obtained by contacting kmeyer@whoi.edu <br>
 CATAIN's disk image includes all image capture software as well as the Linux operating system and writable data folders. When offloading data from CATAIN, users should copy files from the 'image' and 'log' folders in the 'writable' directory without deleting the folders themselves. We highly encourage CATAIN users to reach out to the development team for assistance when assembling their system. 
 
 Image analysis pipeline: <br>
